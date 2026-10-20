@@ -1,0 +1,1 @@
+Fontes em assets/fonts: Fraunces, Geist e Geist Mono. Licença SIL Open Font License 1.1, obtidas dos pacotes npm @fontsource e auto-hospedadas.
